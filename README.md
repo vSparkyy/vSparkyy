@@ -1,6 +1,6 @@
 std::cout << "Hi, I'm Sparky!";
 
-print("I love coding")
+print("Coding is cool")
 
 Console.WriteLine("Most of my projects can be found here!");
 
