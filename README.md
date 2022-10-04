@@ -1,8 +1,8 @@
-std::cout << "Hi, I'm Sparky!";
+std::cout << "hi, i'm sparky";
 
-print("Coding is cool")
+print("i like code")
 
-Console.WriteLine("Most of my projects can be found here!");
+Console.WriteLine("most of my projects can be found here");
 
 <!---
 vSparkyy/vSparkyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
